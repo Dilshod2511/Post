@@ -11,6 +11,7 @@
     <title>Hello, world!</title>
 </head>
 <body class="bg-light">
+<h1 Hello my name is dilshod></h1>
 <nav class="navbar navbar-expand-lg navbar-light bg-white">
     <a class="navbar-brand" href="#">Home</a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
